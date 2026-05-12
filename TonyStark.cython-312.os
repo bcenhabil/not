@@ -1,12 +1,3 @@
-package main
-
-/*
- Tony Stark DoS tool on <strike>steroids</strike> goroutines. Just ported from Python with some improvements.
- Original Python utility by Barry Shteiman
- This go program licensed under GPLv3.
- Copyright Nahid | Tony Stark <rowxitechnology@gmail.com>
-*/
-
 import (
 	"flag"
 	"fmt"
